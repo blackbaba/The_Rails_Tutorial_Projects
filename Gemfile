@@ -18,7 +18,7 @@ gem "sass-rails", "5.1.0"
 gem "turbolinks", "5.2.0"
 gem "wdm", ">= 0.1.0" if Gem.win_platform?
 gem "webpacker", "4.0.7"
-gem 'image_processing', '1.9.3'
+gem 'image_processing', '1.12.2'
 gem 'mini_magick', '4.9.5'
 
 group :development, :test do
