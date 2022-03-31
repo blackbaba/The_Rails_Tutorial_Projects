@@ -6,7 +6,7 @@ ruby "2.6.5"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem "bootsnap", "1.4.5", require: false
 gem "jbuilder", "2.9.1"
-gem "puma", "3.12.2"
+gem "puma", "4.3.12"
 gem "rails", "~> 6.0.2", ">= 6.0.2.1"
 gem 'active_storage_validations', '0.8.2'
 gem "bcrypt", "3.1.13"
